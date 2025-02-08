@@ -1,8 +1,7 @@
 * 🌙 Dark (000) and vibrant theme 
 
-For for *Monokai Vibrant* 
-
-- What is different 
+This extensions is a fork form *Monokai Vibrant*. 
+- Differences compared to *Monokai Vibrant* are shown below: 
   1. Complete dark mode. Background color is #000
   2. Higher contrast on what tab is being used 
   3. Higher contrast when a tab is not saved. 

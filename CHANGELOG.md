@@ -1,3 +1,6 @@
+## 1.1.1
+- Color changes
+
 ## 1.0.1
 - Color changes
 - White when unsaved tab
