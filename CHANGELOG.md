@@ -1,3 +1,6 @@
+## 1.1.2 
+- Comment color changes 
+
 ## 1.1.1
 - Color changes
 
