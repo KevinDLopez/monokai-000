@@ -1,3 +1,6 @@
+## 1.1.3
+- Git decorator color changes 
+
 ## 1.1.2 
 - Comment color changes 
 
