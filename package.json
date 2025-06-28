@@ -2,7 +2,7 @@
 	"name": "monokai-000",
 	"displayName": "Monokai 000",
 	"description": "A very dark and vibrant Monokai based theme.",
-	"version": "1.1.3",
+	"version": "1.2.0",
 	"publisher": "thekevcoder",
 	"icon": "images/icon2.png",
 	"author": "Kevin Lopez (kevin.d.lopez.c@gmail.com)",
@@ -20,7 +20,7 @@
 	},
 	"homepage": "https://github.com/KevinDLopez/monokai-000.git/blob/master/README.md",
 	"engines": {
-		"vscode": "^1.15.0"
+		"vscode": "^1.74.0"
 	},
 	"categories": [
 		"Themes"

@@ -1,3 +1,6 @@
+## 1.2.0
+- Darker colors 
+
 ## 1.1.3
 - Git decorator color changes 
 
